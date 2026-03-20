@@ -96,7 +96,7 @@ eg:
 
 ## 🎥 Demo
 
-![Demo](Video Project (1).gif)
+![Demo](demo.gif)
 
 ---
 
