@@ -1,4 +1,4 @@
-#📊 Personal Finance Analyzer
+# 📊 Personal Finance Analyzer
 
 ---
 
@@ -6,7 +6,7 @@ A Python-based tool to analyze daily expenses, generate visual reports, and prov
 
 ---
 
-##🚀 Features
+## 🚀 Features
 
 **📂 File Picker Support** – Select your expense CSV easily
 
@@ -32,7 +32,7 @@ Overall trend (increasing / decreasing / stable)
 
 ---
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 🐍 Python
 
@@ -44,7 +44,8 @@ Overall trend (increasing / decreasing / stable)
 
 ---
 
-##📁 Project Structure
+## 📁 Project Structure
+
 📦 Personal-Finance-Analyzer
  ┣ 📜 main.py
  ┣ 📜 pandas_handler.py
@@ -52,7 +53,7 @@ Overall trend (increasing / decreasing / stable)
 
  ---
  
-##▶️ How to Use
+## ▶️ How to Use
 
 Run the program:
 
@@ -78,13 +79,13 @@ Extracting insights from data
 
 ---
 
-##🎯 Project Goal
+## 🎯 Project Goal
 
 To convert raw expense data into clear insights and visual reports for better financial decisions.
 
 ---
 
-##📌 Future Improvements
+## 📌 Future Improvements
 
 📅 Monthly analysis
 
@@ -96,7 +97,7 @@ To convert raw expense data into clear insights and visual reports for better fi
 
 ---
 
-##👨‍💻 Author & Credits
+## 👨‍💻 Author & Credits
 
 @The QUANTUM Studio ⚛️
 
