@@ -94,7 +94,7 @@ eg:
 
 ## Demo
 
-(Video Project (1).gif)
+!(Video Project (1).gif)
 
 ---
 
