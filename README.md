@@ -62,6 +62,8 @@ Download the zip file of project from GitHUB.
 
 Extract the file.
 
+In terminal run the command: *pip install -r requirements.txt*
+
 Run the program:
 
 python **main.py**
