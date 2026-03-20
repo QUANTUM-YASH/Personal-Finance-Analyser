@@ -72,11 +72,18 @@ python **main.py**
 
 📊 View graphs and insights
 
-**📄 CSV Format**
-Date	Category	Amount
-01-03-2026	Food	200
-02-03-2026	Travel	150
-💡 What You Learn
+**📄 CSV Format:-**
+Date/	Category/	Amount
+
+eg:
+
+01-03-2026/	Food/	200
+
+02-03-2026/	Travel/	150
+
+---
+
+## 💡 What You Learn
 
 Data handling using Pandas
 
