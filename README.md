@@ -58,28 +58,37 @@ Overall trend (increasing / decreasing / stable)
  
 ## ▶️ How to Use
 
-Download the zip file of project from GitHUB.
+### Option 1: Using Git (Recommended)
 
-Extract the file.
+git clone <your-repo-link>
 
-In terminal run the command: *pip install -r requirements.txt*
+cd Personal-Finance-Analyzer
 
-Run the program:
+pip install -r requirements.txt
 
-python **main.py**
+python main.py
 
-📂 Select your CSV file
+### Option 2: Manual Download
 
-📊 View graphs and insights
+Download ZIP → Extract → Run:
+
+pip install -r requirements.txt
+
+python main.py
+
+### 📂 Select your CSV file
+
+### 📊 View graphs and insights
 
 **📄 CSV Format:-**
 Date/	Category/	Amount
 
 eg:
 
-01-03-2026/	Food/	200
-
-02-03-2026/	Travel/	150
+| Date       | Category | Amount |
+|------------|----------|--------|
+| 01-03-2026 | Food     | 200    |
+| 02-03-2026 | Travel   | 150    |
 
 ---
 
