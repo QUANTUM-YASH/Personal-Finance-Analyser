@@ -49,7 +49,9 @@ Overall trend (increasing / decreasing / stable)
 📦 Personal-Finance-Analyzer
 
  ┣ 📜 main.py
+ 
  ┣ 📜 pandas_handler.py
+ 
  ┣ 📜 graph.py
 
  ---
