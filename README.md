@@ -1,8 +1,5 @@
-***📊 Personal Finance Analyzer***
-
-A powerful and beginner-friendly Python project that helps you analyze your daily expenses, visualize spending patterns, and gain meaningful financial insights.
-
-*🚀 Features*
+📊 Personal Finance Analyzer
+🚀 Features
 
 📂 File Picker Support – Select your expense CSV file easily
 
@@ -24,9 +21,9 @@ Average daily spending
 
 Spending dominance detection
 
-Overall trend (increasing/decreasing/stable)
+Overall trend (increasing / decreasing / stable)
 
-*🛠️ Technologies Used*
+🛠️ Technologies Used
 
 🐍 Python
 
@@ -36,13 +33,13 @@ Overall trend (increasing/decreasing/stable)
 
 🖥️ Tkinter (for file selection)
 
-*📁 Project Structure*
+📁 Project Structure
 📦 Personal-Finance-Analyzer
  ┣ 📜 main.py              # Main controller (input + flow)
- ┣ 📜 pandas_handler.py   # Data cleaning & processing
- ┣ 📜 graph.py            # Visualization functions
- 
-*▶️ How to Use*
+ ┣ 📜 pandas_handler.py    # Data cleaning & processing
+ ┣ 📜 graph.py             # Visualization functions
+ ┗ 📜 expenses.csv         # Sample input file
+▶️ How to Use
 
 Run the project:
 
@@ -53,9 +50,6 @@ python main.py
 📊 View graphs and insights automatically
 
 📄 CSV Format Required
-
-Your CSV file should contain:
-
 Date	Category	Amount
 01-03-2026	Food	200
 02-03-2026	Travel	150
@@ -69,11 +63,11 @@ Modular programming design
 
 Extracting meaningful insights from data
 
-*🎯 Project Goal*
+🎯 Project Goal
 
 To transform raw financial data into clear insights and visual reports, helping users make smarter spending decisions.
 
-*📌 Future Improvements*
+📌 Future Improvements
 
 📅 Monthly/Yearly analysis
 
@@ -83,7 +77,7 @@ To transform raw financial data into clear insights and visual reports, helping 
 
 🤖 Advanced trend prediction
 
-**👨‍💻 Author**
+👨‍💻 Author
+@The QUANTUM Studio ⚛️
 
-@The QUANTUM Studio
-*Yash Raj* and *Prince Raj*
+Yash Raj & Prince Raj
