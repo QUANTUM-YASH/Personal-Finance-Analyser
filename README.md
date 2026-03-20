@@ -1,17 +1,24 @@
-📊 Personal Finance Analyzer
-🚀 Features
+#📊 Personal Finance Analyzer
 
-📂 File Picker Support – Select your expense CSV file easily
+---
 
-🧹 Automated Data Cleaning – Handles messy data using Pandas
+A Python-based tool to analyze daily expenses, generate visual reports, and provide meaningful financial insights from CSV data.
 
-📊 Visualizations
+---
 
-🥧 Category-wise Pie Chart
+##🚀 Features
 
-📈 Daily Spending Trend (Line Graph)
+**📂 File Picker Support** – Select your expense CSV easily
 
-🧠 Smart Insights
+**🧹 Automated Data Cleaning** – Handles messy data using Pandas
+
+**📊 Visualizations**
+
+**🥧 Category-wise Pie Chart**
+
+**📈 Daily Spending Trend**
+
+**🧠 Insights**
 
 Highest spending category
 
@@ -23,7 +30,9 @@ Spending dominance detection
 
 Overall trend (increasing / decreasing / stable)
 
-🛠️ Technologies Used
+---
+
+##🛠️ Technologies Used
 
 🐍 Python
 
@@ -31,53 +40,65 @@ Overall trend (increasing / decreasing / stable)
 
 📉 Matplotlib
 
-🖥️ Tkinter (for file selection)
+🖥️ Tkinter
 
-📁 Project Structure
+---
+
+##📁 Project Structure
 📦 Personal-Finance-Analyzer
- ┣ 📜 main.py              # Main controller (input + flow)
- ┣ 📜 pandas_handler.py    # Data cleaning & processing
- ┣ 📜 graph.py             # Visualization functions
- ┗ 📜 expenses.csv         # Sample input file
-▶️ How to Use
+ ┣ 📜 main.py
+ ┣ 📜 pandas_handler.py
+ ┣ 📜 graph.py
 
-Run the project:
+ ---
+ 
+##▶️ How to Use
 
-python main.py
+Run the program:
 
-📂 Select your CSV file when prompted
+python **main.py**
 
-📊 View graphs and insights automatically
+📂 Select your CSV file
 
-📄 CSV Format Required
+📊 View graphs and insights
+
+**📄 CSV Format**
 Date	Category	Amount
 01-03-2026	Food	200
 02-03-2026	Travel	150
 💡 What You Learn
 
-Real-world data handling using Pandas
+Data handling using Pandas
 
-Data visualization with Matplotlib
+Visualization using Matplotlib
 
-Modular programming design
+Modular programming
 
-Extracting meaningful insights from data
+Extracting insights from data
 
-🎯 Project Goal
+---
 
-To transform raw financial data into clear insights and visual reports, helping users make smarter spending decisions.
+##🎯 Project Goal
 
-📌 Future Improvements
+To convert raw expense data into clear insights and visual reports for better financial decisions.
 
-📅 Monthly/Yearly analysis
+---
+
+##📌 Future Improvements
+
+📅 Monthly analysis
 
 📊 Dashboard UI
 
-📥 Export reports (PDF/CSV)
+📥 Export reports
 
-🤖 Advanced trend prediction
+🤖 Advanced trend analysis
 
-👨‍💻 Author
+---
+
+##👨‍💻 Author & Credits
+
 @The QUANTUM Studio ⚛️
 
-Yash Raj & Prince Raj
+**Yash Raj** & **Prince Raj**
+
