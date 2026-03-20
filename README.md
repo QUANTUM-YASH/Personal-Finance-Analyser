@@ -47,6 +47,7 @@ Overall trend (increasing / decreasing / stable)
 ## 📁 Project Structure
 
 📦 Personal-Finance-Analyzer
+
  ┣ 📜 main.py
  ┣ 📜 pandas_handler.py
  ┣ 📜 graph.py
@@ -54,6 +55,10 @@ Overall trend (increasing / decreasing / stable)
  ---
  
 ## ▶️ How to Use
+
+Download the zip file of project from GitHUB.
+
+Extract the file.
 
 Run the program:
 
